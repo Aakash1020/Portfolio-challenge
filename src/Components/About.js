@@ -8,10 +8,8 @@ const About = ({ data }) => {
     var street = data.address.street;
     var city = data.address.city;
     var state = data.address.state;
-    var zip = data.address.zip;
-    var phone = data.phone;
+    var Pincode = data.address.Pincode;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
   }
 
   return (
@@ -37,21 +35,20 @@ const About = ({ data }) => {
                 <span>
                   {street}
                   <br />
-                  {city} {state}, {zip}
+                  {city} {state}, {Pincode}
                 </span>
-                <br />
-                <span>{phone}</span>
+
                 <br />
                 <span>{email}</span>
               </p>
             </div>
-            <div className="columns download">
+            {/* <div className="columns download">
               <p>
                 <a href={resumeDownload} className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
