@@ -1,0 +1,81 @@
+{
+  "main": {
+    "name": "Aakash Rathod",
+    "occupation": "Student",
+    "description": "I keep learning, developing and sharing",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Aakash!, I live in Pune ( India ), currently I am in final semister as a full time student pursuing Bachelor of Engineering degree in Computer specialization, I love to design things in my own way, Also working smarter in my journey to become a Full Stact Developer",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "itsaakashrathod@gmail.com",
+    "address": {
+      "street": "Arun Kadam Chowk",
+      "city": "Pune ( India )",
+      "state": "Maharashtra",
+      "Pincode": "411016"
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/Aakash-Rathod/100009445094302",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aakash-rathod-651376169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/theunamedude/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Aakash1020",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Savitribai Phule Pune University - India",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Pursuing"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  }
+}

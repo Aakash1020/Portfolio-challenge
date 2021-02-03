@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-challenge/static/css/main.be6d1d54.chunk.css",
+    "main.js": "/Portfolio-challenge/static/js/main.73653c49.chunk.js",
+    "main.js.map": "/Portfolio-challenge/static/js/main.73653c49.chunk.js.map",
+    "runtime-main.js": "/Portfolio-challenge/static/js/runtime-main.f899b4b9.js",
+    "runtime-main.js.map": "/Portfolio-challenge/static/js/runtime-main.f899b4b9.js.map",
+    "static/js/2.cf37beb3.chunk.js": "/Portfolio-challenge/static/js/2.cf37beb3.chunk.js",
+    "static/js/2.cf37beb3.chunk.js.map": "/Portfolio-challenge/static/js/2.cf37beb3.chunk.js.map",
+    "index.html": "/Portfolio-challenge/index.html",
+    "static/css/main.be6d1d54.chunk.css.map": "/Portfolio-challenge/static/css/main.be6d1d54.chunk.css.map",
+    "static/js/2.cf37beb3.chunk.js.LICENSE.txt": "/Portfolio-challenge/static/js/2.cf37beb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f899b4b9.js",
+    "static/js/2.cf37beb3.chunk.js",
+    "static/css/main.be6d1d54.chunk.css",
+    "static/js/main.73653c49.chunk.js"
+  ]
+}
